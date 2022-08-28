@@ -6,3 +6,9 @@ featur-set
 fs1-switching from javascript to Bootstrap carousel
 fs2-creat javascript carousel
 fs3-creat Bootstrap carousel
+
+
+
+
+
+ 
